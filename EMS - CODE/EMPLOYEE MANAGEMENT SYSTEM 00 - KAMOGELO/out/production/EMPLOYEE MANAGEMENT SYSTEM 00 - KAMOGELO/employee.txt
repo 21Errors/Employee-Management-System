@@ -1,0 +1,15 @@
+001,Kamogelo,Kolobe,Male,Partial plot 5699,Gaborone,CEO,15 january 2002,8.0,310.5,24,true,1350.0
+002,Thabang,Moloi,Male,extension 14 plot 2232,Gaborone,Temp Staff,14 Febuary 2013,8.0,70,3,false,75
+003,Katlo,Matheba,Female,extension 16 plot 827,Gaborone,Support Staff,24 March 2016,8.0,70,2,false,75
+004,Thato,Mpathi,Female,Tlokweng plot 221,Tlokweng,Human Resource Officer,27 May 2005,8.0,190,13,true,600.0
+005,Kagiso,Mfeere,Male,Mochudi plot 223,Mochudi,Finance Officer,25 October 2006,8.0,170.0,12,false,550.0
+006,Lerato,Molefe,Female,Tsabong plot 224,Tsabong,Support Staff,26 November 2006,8.0,70,4,false,75
+007,Thabo,Molefe,Male,Gaborone plot 225,Gaborone,Temp Staff,27 October 2006,8.0,70.0,4,true,75
+008,Katso,Mleiti,Female,Kanye plot 332,Kanye,Accounts Officer,23 August 2002,8.0,160.0,7,false,450.0
+009,Kitso,Malete,Female,Ghanzi plot 2443,Ghanzi,Marketing Executive,14 April 2001,8.0,155.0,7,false,400.0
+010,Thapelo,Malete,Male,Ghanzi plot 2443,Ghanzi,Marketing Executive,14 April 2001,8.0,155.0,7,false,400.0
+011,Fatima,Mafendu,Female,Toteng plot 2443,Toteng,Marketing Executive,17 May 2002,8.0,155.0,7,false,400.0
+012,Malvin,Mafethlo,Male,Tsabong plot 2443,Tsabong,Marketing Executive,18 December 2010,8.0,155.0,7,false,400.0
+013,Pako,Mathoba,Female,extension 24 plot 827,Gaborone,Support Staff,24 March 2016,8.0,70,2,false,75
+014,Thito,Mopakwa,Male,Mogoditshane 16 plot 827,Mogoditshane,Support Staff,24 March 2016,8.0,70,2,false,75
+015,Thabang,Mpopi,Male,Oodi plot 2232,Oodi,Temp Staff,14 Febuary 2013,8.0,70,3,false,75.0
